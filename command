@@ -1,0 +1,1 @@
+--check_val_every_n_epoch=1  --log_every_n_steps=1000 --flush_logs_every_n_steps=1000 --limit_val_batches=1.0 --num_sanity_val_steps=10 --num_nodes=1 --gpus=1  --accelerator="ddp"
